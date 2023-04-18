@@ -1,0 +1,13 @@
+version: "1.0"
+info:
+  scaffold: test
+  model: int-scaffold
+services:
+- serviceName: pub.date:getCurrentDate
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.271
+- serviceName: edge.newprivatecheck.integrations:test
+  packages:
+  - name: EdgeNewprivatecheck
+    version: "1.0"

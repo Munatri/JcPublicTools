@@ -44,13 +44,12 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">flowqa</value>
-    <value name="createdDate">1681814252145</value>
-    <value name="lastModifiedDate">1681814252145</value>
+    <value name="lastModifiedBy">flowqa</value>
+    <value name="lastModifiedDate">1681814260955</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="id">default</value>
-      <null name="group"/>
-      <value name="name">Default (Cloud)</value>
+      <value name="id">228ba8c8ebf044bebbfb8adfb3daa955</value>
+      <value name="group">default</value>
+      <value name="name">April18Flow</value>
     </record>
     <value name="displayName">test</value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
