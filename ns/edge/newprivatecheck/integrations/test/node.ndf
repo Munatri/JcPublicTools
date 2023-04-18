@@ -45,11 +45,11 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">flowqa</value>
-    <value name="lastModifiedDate">1681814612217</value>
+    <value name="lastModifiedDate">1681815211134</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="id">228ba8c8ebf044bebbfb8adfb3daa955</value>
+      <value name="id">53bc825e04a343b7a4684ef741d1c833</value>
       <value name="group">default</value>
-      <value name="name">April18Flow</value>
+      <value name="name">new18april</value>
     </record>
     <value name="displayName">test</value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
